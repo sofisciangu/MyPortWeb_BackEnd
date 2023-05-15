@@ -32,5 +32,4 @@ public class DtoEducacion {
     public void setDescripcionE(String descripcionE) {
         this.descripcionE = descripcionE;
     }
-
 }
